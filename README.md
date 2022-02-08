@@ -15,7 +15,7 @@ npm install
 ### Run Server
 
 ```bash
-npm run start  # React Client Only :3000
+npm run start  # App starts at port: 3000
 ```
 
 ### NPM Packages
